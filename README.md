@@ -3,8 +3,6 @@
 <h3 align="center">Um sistema em MySql para gerenciamento de carros alugados e locações</h3>
 
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Paulo-Ricard0/carlocaDB?color=9580FF">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Paulo-Ricard0/carlocaDB?color=9580FF">
   
   <a href="https://github.com/Paulo-Ricard0/carlocaDB/commits/main">
