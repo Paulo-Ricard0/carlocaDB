@@ -39,7 +39,7 @@
 Esse é um projeto desenvolvido para aplicar os conhecimentos adquiridos durante o aprendizado de banco de dados relacionais e design de banco de dados.</br>
 Acesse o diagrama (ER) do carloca pelo seguinte link: [diagrama](https://dbdiagram.io/d/Carloca-657e03ff56d8064ca0288458)
 
-O Carloca é um sistema de locadora de carros projetado para atender às necessidades específicas de gestão de veículos, clientes e locações. O sistema foi desenvolvido com base em requisitos funcionais e não funcionais específicos, focando na operação eficiente da locadora e nos princípios de normalização de bancos de dados.
+O Carloca é um sistema de locadora de carros projetado para atender às necessidades específicas de gestão de veículos, clientes e locações em uma rede de franquias. O sistema foi desenvolvido com base em requisitos funcionais e não funcionais específicos, focando na operação eficiente da locadora e nos princípios de normalização de bancos de dados.
 
 ---
 
@@ -68,6 +68,14 @@ O Carloca é um sistema de locadora de carros projetado para atender às necessi
 ## 🛠️ Tecnologias utilizadas
 
 <a href="https://dev.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-9580FF?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+
+---
+
+## 👨‍💻 Instruções de Uso
+
+1. Para criar o banco de dados e suas tabelas, execute os scripts SQL fornecidos no arquivo [creates-carloca.sql](./creates-carloca.sql).
+2. Para inserção de dados nas tabelas execute os scripts SQL fornecidos no arquivo [inserts-carloca.sql](./inserts-carloca.sql), esse arquivo inclue informações ficticias apenas para implementação prática.
+3. Para validar cada requisito funcional utilize as consultas de exemplo fornecidas no arquivo [querys-carloca.sql](./querys-carloca.sql).
 
 ---
 
