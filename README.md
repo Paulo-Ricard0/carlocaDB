@@ -29,7 +29,7 @@
 ## 📋 Tabela de Conteúdos
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Requisitos Funcionais](#️-requisitos-funcionais)
-- [Estrutura do Banco de Dados](#-estrutura-do-banco-de-dados)
+- [Estrutura do Banco de Dados](#estrutura-do-banco-de-dados)
 - [Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
 - [Autor](#-autor)
 - [Licença](#-licença)
