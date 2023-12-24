@@ -29,6 +29,7 @@
 - [Requisitos Funcionais](#️-requisitos-funcionais)
 - [Estrutura do Banco de Dados](#%EF%B8%8F-estrutura-do-banco-de-dados)
 - [Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+- [Instruções de Uso](#%EF%B8%8F-estrutura-do-banco-de-dados)
 - [Autor](#-autor)
 - [Licença](#-licença)
 
